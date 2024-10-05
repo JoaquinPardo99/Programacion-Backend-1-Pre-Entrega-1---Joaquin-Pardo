@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "Fender Stratocaster",
+    "description": "Una guitarra eléctrica icónica con pastillas de bobina simple.",
+    "code": "FST001",
+    "price": 1200,
+    "status": true,
+    "stock": 10,
+    "category": "Electric Guitars",
+    "thumbnails": [
+      "images/fender-stratocaster-front.jpg",
+      "images/fender-stratocaster-back.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Gibson Les Paul Special",
+    "description": "Guitarra eléctrica con cuerpo sólido, famosa por su tono cálido.",
+    "code": "GLP002",
+    "price": 2600,
+    "status": true,
+    "stock": 5,
+    "category": "Electric Guitars",
+    "thumbnails": [
+      "images/gibson-lespaul-front.jpg",
+      "images/gibson-lespaul-back.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ibanez RG550",
+    "description": "Guitarra eléctrica diseñada para el shred y el metal.",
+    "code": "IBZ550",
+    "price": 999,
+    "status": true,
+    "stock": 15,
+    "category": "Electric Guitars",
+    "thumbnails": [
+      "images/ibanez-rg550-front.jpg",
+      "images/ibanez-rg550-back.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Yamaha FG800",
+    "description": "Guitarra acústica con gran resonancia y durabilidad.",
+    "code": "YFG800",
+    "price": 300,
+    "status": true,
+    "stock": 20,
+    "category": "Acoustic Guitars",
+    "thumbnails": [
+      "images/yamaha-fg800-front.jpg",
+      "images/yamaha-fg800-back.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Taylor 314ce",
+    "description": "Guitarra acústica eléctrica premium con electrónica integrada.",
+    "code": "TAY314CE",
+    "price": 2000,
+    "status": true,
+    "stock": 7,
+    "category": "Acoustic Guitars",
+    "thumbnails": [
+      "images/taylor-314ce-front.jpg",
+      "images/taylor-314ce-back.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Gibson SG",
+    "description": "Una guitarra eléctrica famosa por su cuerpo ligero y su sonido rockero clásico.",
+    "code": "GSG003",
+    "price": "1500",
+    "status": true,
+    "stock": "8",
+    "category": "Electric Guitars",
+    "thumbnails": [
+      "images/gibson-sg-front.jpg",
+      "images/gibson-sg-back.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Gibson  ES-335",
+    "description": "Guitarra con gran cuerpo principalmente usada en jazz y blues.",
+    "code": "GES335",
+    "price": 4000,
+    "status": true,
+    "stock": "5",
+    "category": "Electric Guitars",
+    "thumbnails": []
+  }
+]
