@@ -78,10 +78,7 @@
     "status": true,
     "stock": "8",
     "category": "Electric Guitars",
-    "thumbnails": [
-      "images/gibson-sg-front.jpg",
-      "images/gibson-sg-back.jpg"
-    ]
+    "thumbnails": ["images/gibson-sg-front.jpg", "images/gibson-sg-back.jpg"]
   },
   {
     "id": 7,
@@ -93,5 +90,25 @@
     "stock": "5",
     "category": "Electric Guitars",
     "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "PRS Custom 24",
+    "description": "Guitarra eléctrica de alta gama, famosa por su versatilidad y claridad tonal.",
+    "code": "PRSC24",
+    "price": "3500",
+    "status": true,
+    "stock": "6",
+    "category": "Electric Guitars",
+    "thumbnails": []
+  },
+  {
+    "id": 1729186043637,
+    "title": "BC Rich Warlock",
+    "description": "Guitarra de 24 trastes usada en Metal.",
+    "code": "BCRWLK",
+    "price": 1800,
+    "stock": 5,
+    "category": "Electric Guitars"
   }
 ]
